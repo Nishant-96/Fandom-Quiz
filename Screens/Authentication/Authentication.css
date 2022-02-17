@@ -1,0 +1,22 @@
+.input-quiz{
+    background-color: var(--white);
+    width: auto;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    text-align: center;
+    margin: 0.5rem 0;
+}
+
+.login-a{
+    color: #03DAC5;
+    margin: 0.5rem 0;
+}
+
+.login-checkbox{
+    margin: 0.5rem 0;
+}
+
+.profile-row{
+    display: flex;
+    gap: 1rem;
+}
