@@ -130,9 +130,44 @@
   flex-direction: column;
   text-align: center;
   margin: auto;
+  padding-inline: 2rem;
 }
 
-.grid-content {
+/* .grid-content {
   margin: 2.5rem auto;
   gap: 6rem;
+} */
+/* removing grid */
+
+
+.check{
+  margin-top:1.5rem ;
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+}
+
+@media screen and (max-width: 450px) {
+
+  .header-logo{
+    margin-left: unset;
+  }
+
+  .home-box{
+    padding-inline: unset;
+    margin-inline: auto;
+  }
+
+}
+
+@media screen and (max-width: 410px) {
+
+  .header{
+    justify-content: center;
+  }
+
+  .quiz-content-box{
+    margin-top: 10rem;
+  }
+
 }
