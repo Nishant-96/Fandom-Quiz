@@ -44,3 +44,14 @@ hr{
     border: solid 1px;
     margin: 1rem 0rem;
 }
+
+.question-header{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.timer-text{
+    color: var(--error);
+    opacity: 100%;
+}
