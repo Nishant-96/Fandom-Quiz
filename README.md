@@ -1,5 +1,7 @@
-<div align="center">
-# [Fandom Quiz](https://fandom-quiz-robyn.netlify.app/)
+<div align='center'>
+  <a  href='https://fandom-quiz-robyn.netlify.app/'>
+    Fandom Quiz
+<a/>
 </div>
 <div align="center">Take the quiz to find if you are an hardcore fan.</div>
 <br />
