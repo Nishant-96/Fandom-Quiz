@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Images/logo-bg-removed.png" height="100" width="100" alt="Snowstore logo"/>
+  <img src="Images/logo-bg-removed.png" height="100" width="100" alt="Fandom logo"/>
   
 # [FANDOM](https://fandom-quiz-robyn.netlify.app/)
 
