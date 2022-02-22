@@ -49,7 +49,6 @@ Fandom is a quiz app where you can test your knowledge if you are hardcore fan o
 
 ![result 1](https://user-images.githubusercontent.com/38640415/155022561-b654f8ed-9aa4-450a-bcd7-cc6a7e5a91a9.jpg)
 
-![login](https://user-images.githubusercontent.com/65854945/154772819-59755d83-6129-4a91-be24-bafcd6cee02d.png)
 
 ![Profile page](https://user-images.githubusercontent.com/38640415/155022587-042e9a11-e15f-48e2-966c-2aa3d46094af.jpg)
 
