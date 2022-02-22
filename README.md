@@ -1,9 +1,12 @@
-<div align='center'>
-  <a  href='https://fandom-quiz-robyn.netlify.app/'>
-    Fandom Quiz
-<a/>
+<div align="center">
+  <img src="Images/logo-bg-removed.png" height="100" width="100" alt="Snowstore logo"/>
+  
+# [FANDOM](https://fandom-quiz-robyn.netlify.app/)
+
+
+      Take the quiz to find if you are an hardcore fan.
 </div>
-<div align="center">Take the quiz to find if you are an hardcore fan.</div>
+
 <br />
 
 ## **Table of contents**
